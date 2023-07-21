@@ -5,3 +5,4 @@ Basic of Building AWS Infrastructure Frontend
 3. 히히 Secrets 하나 빼먹음
 4. Secrets 잘못 설정함
 5. watcher.py 수정
+6. 함 더
