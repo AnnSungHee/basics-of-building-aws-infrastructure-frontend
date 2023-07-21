@@ -4,3 +4,4 @@ Basic of Building AWS Infrastructure Frontend
 2. example.txt 만들어봄
 3. 히히 Secrets 하나 빼먹음
 4. Secrets 잘못 설정함
+5. watcher.py 수정
