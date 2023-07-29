@@ -7,3 +7,4 @@ Basic of Building AWS Infrastructure Frontend
 5. watcher.py 수정
 6. 함 더
 7. Watcher.py 켜져있나?
+8. 안켜져있었음 ㅠㅠ
